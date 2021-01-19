@@ -1,5 +1,5 @@
 ## 20210119
-* self build
+* build for self use
 * 新增 jerrykuku/luci-app-vssr
 
 ## 20201102
